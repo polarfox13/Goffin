@@ -3,6 +3,9 @@
 ## Description
 Goffin is a playful web application built with Laravel, Breeze, Livewire, and Tailwind CSS, and deployed using Laravel Sail. It's designed to help you waste time in style. Whether you're looking to procrastinate or kill time, Goffin is your refined companion.
 
+## Note: 
+This project is currently in the initial development phase and is not yet complete. The features and functionality may change as the project progresses.
+
 ## Features
 - Elegant and visually appealing interface powered by Tailwind CSS to enhance your procrastination experience
 - Interactive and responsive components built with Livewire to keep you engaged while you avoid your responsibilities
