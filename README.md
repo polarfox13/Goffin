@@ -1,5 +1,7 @@
 # Goffin - The Procrastination Assistant
 
+![Screenshot_Goffin - Procrastination Assistant](https://github.com/user-attachments/assets/f5978b36-a242-4392-a082-7fad175d0362)
+
 ## Description
 Goffin is a playful web application built with Laravel, Breeze, Livewire, and Tailwind CSS, and deployed using Laravel Sail. It's designed to help you waste time in style. Whether you're looking to procrastinate or kill time, Goffin is your refined companion.
 
